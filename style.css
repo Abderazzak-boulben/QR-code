@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: #cbe4fa;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: -5px 5px 20px rgba(0, 0, 0, 0.3);    
+ }
+
+.card {
+    height: 450px;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+    line-height: 20px;
+}
+.card-img-top {
+    border-radius: 10px;
+}
+
+.card-text {
+    color: #D3D3D3;
+}
+ 
