@@ -1,1 +1,1 @@
-# QR-code
+https://abderazzak-boulben.github.io/QR-code/
